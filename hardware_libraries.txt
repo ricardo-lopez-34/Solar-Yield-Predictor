@@ -1,0 +1,5 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. DHT sensor library (by Adafruit)
+4. Adafruit Unified Sensor (Dependency for DHT)
+5. ArduinoJson (by Benoit Blanchon)
